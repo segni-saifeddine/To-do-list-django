@@ -5,12 +5,11 @@ It will help you to maintain a list of your daily tasks.
 ## Features :
 
 * Add new task
-* Update your task and Mark task as completed / uncompletem
+* Update your task and Mark task as completed / uncompleted
 * Delete single task
 ## Technologies used:
 
 * Django 3.0
 * Pyhton
 * Sqlite3
-* Html ; CSS
-* JavaScript
+* Html ; CSS ;Jinja2
